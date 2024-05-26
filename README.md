@@ -1,3 +1,6 @@
+## EXPERIMENT NO.: 06
+## DATE : 06.04.2024
+
 # Gaussian Elimination
 
 ## AIM:
